@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="atomicwrites" />
+          <option value="bcrypt" />
+          <option value="bitarray" />
+          <option value="colorama" />
+          <option value="crcmod" />
+          <option value="cryptography" />
+          <option value="et_xmlfile" />
+          <option value="exceptiongroup" />
+          <option value="flake8" />
+          <option value="mccabe" />
+          <option value="numpy" />
+          <option value="openpyxl" />
+          <option value="paramiko" />
+          <option value="py" />
+          <option value="pycodestyle" />
+          <option value="pycryptodome" />
+          <option value="pyflakes" />
+          <option value="PyMySQL" />
+          <option value="PyNaCl" />
+          <option value="pyserial" />
+          <option value="scapy" />
+          <option value="tongsuopy" />
+          <option value="pytest-random-order" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
